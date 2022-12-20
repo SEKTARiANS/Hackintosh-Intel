@@ -1,5 +1,5 @@
 # <b>Hackintosh Intel</b><br>
-<img src="https://sun9-27.userapi.com/impg/GXaAdce1UlIJQod3xG8hjKoBvN4GvwDOAcJxZg/zLasX79TFcE.jpg?size=1652x927&quality=96&sign=c1221710a7d7d179ffa7700fe1b7bcf0&type=album.jpg ">
+<img src="https://psv4.userapi.com/c236331/u21460147/docs/d39/ed0d8a73d9f9/repository-open-graph-template.png?extra=GdvJu7YcG_1D9Mr2ScUlK1gKmhdqoKRzW051fX6bkhPCA_QgIPmxA8d3DW-Wr41lzhUSKuhj40ytTh1wOsfcoTU_v7Rg_XM2TLQ2AZN3fYmUrEbM9n3_LVVX3p_CgkcbW_GHhGZMg3ejbYqd3Yuaew.jpg ">
 <b>MacOS version:</b> Ventura 13.1 (22C65)<br>
 <b>OpenCore version:</b> 0.8.7
 
