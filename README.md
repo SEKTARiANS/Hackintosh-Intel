@@ -12,3 +12,4 @@
 | <b>Ethernet</b>  | Realtek RTL8111H  |
 | <b>RAM</b>  | AMD Radeon R7 8GB @ 2400 MHz|
 | <b>SSD</b>  | Transcend 240 GB SATA   |
+<hr>
