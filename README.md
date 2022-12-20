@@ -1,6 +1,6 @@
 # <b>Hackintosh Intel</b><br>
 
-<b>MacOS version:</b> Ventura 13.1 (22C65)[<br>
+<b>MacOS version:</b> Ventura 13.1 (22C65)<br>
 <b>OpenCore version:</b> 0.8.7
 
 | Component| Model |
