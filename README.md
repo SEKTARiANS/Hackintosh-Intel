@@ -25,4 +25,4 @@
 </details>
 <hr>
 <blockquote><b>Use your SMBIOS - Macmini8,1</b></blockquote>
- 
+<hr>
